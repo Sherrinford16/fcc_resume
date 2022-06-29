@@ -1,7 +1,7 @@
 
 =======
 
-![image]([https://github.com/Sherrinford16/fcc_resume/blob/master/resume.gif](https://github.com/Sherrinford16/fcc_resume/blob/master/images/resume.gif?raw=true))
+![image](https://github.com/Sherrinford16/fcc_resume/blob/master/images/resume.gif?raw=true)
 
 
 
