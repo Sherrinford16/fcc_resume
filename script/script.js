@@ -11,6 +11,7 @@ window.onscroll = function() {
     }
 }
 // collapse navbar after click on small devices
+
 const navLinks = document.querySelectorAll('.nav-item')
 const menuToggle = document.getElementById('navbarSupportedContent')
 
